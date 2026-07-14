@@ -11,4 +11,14 @@ This repository contains practical ArgoCD configurations and examples.
 - **test**: Test configurations
 
 ## Getting Started
-[Add setup instructions]
+### Prerequisites
+- Kubernetes cluster (1.24+)
+- ArgoCD installed
+- kubectl configured
+
+### Setup Instructions
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Mangaal/argocd-yaml.git
+   cd argocd-yaml
